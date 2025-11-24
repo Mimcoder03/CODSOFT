@@ -1,4 +1,4 @@
-# CODSOFT |  Scientific Calculator  
+# CODSOFT | Calculator  
 
 # 🧮 Scientific Calculator 
 
