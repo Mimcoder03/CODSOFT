@@ -14,9 +14,6 @@ Screenshots:
 ![Calculator Screenshot](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Preview
-http://127.0.0.1:3000/index.html
-
 ## ✨ Features
 
 ### 🎨 User Interface
