@@ -1,15 +1,10 @@
-# CODSOFT | Calculator  
-
-# 🧮 Scientific Calculator 
+#  Scientific Calculator
 
 A sleek, feature-rich scientific calculator with a modern UI, supporting both basic and advanced mathematical operations. Built with vanilla HTML, CSS, and JavaScript.
 
+Screnshort:
+![alt text](<Screenshot 2025-11-25 003045.png>) ![alt text](<Screenshot 2025-11-25 002953.png>)
 
-Screenshots:
-
-<img width="932" height="866" alt="Screenshot 2025-11-25 003045" src="https://github.com/user-attachments/assets/0fa25904-4698-4735-aade-160931017b7f" />
-
-<img width="1018" height="838" alt="Screenshot 2025-11-25 002953" src="https://github.com/user-attachments/assets/4fbc227e-c509-4fa2-a7d7-0e09cee3c7e2" />
 
 ![Calculator Screenshot](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -169,4 +164,3 @@ For questions or feedback, please open an issue on the repository.
 ---
 
 **Enjoy calculating!** 🧮✨
-
